@@ -117,6 +117,18 @@
     }
   },
   "HitAreas": [
+	   {
+      "Name": "body",
+      "Id": "touch_body"
+    },
+    {
+      "Name": "head",
+      "Id": "touch_head"
+    },
+    {
+      "Name": "special",
+      "Id": "touch_special"
+    }
   ],
   "Options": {}
 }
